@@ -1,0 +1,241 @@
+.body{
+    
+}
+.cont{   
+      
+    margin: 0 auto; 
+    max-width: 1090px; 
+   padding: 0 15px; 
+   margin: auto;
+
+
+}
+
+
+/* Header */
+
+.header{
+    background:url("../img/Hero1.png") center/cover no-repeat;
+    height: 962px;
+    padding-top: 56px;
+}
+.header-nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 176px;
+}
+
+.logo{
+     width: 1060px;
+height: 31px;
+}
+
+   
+  
+/* Nav */
+.nav{
+    
+}
+ .nav-list{
+    
+display: flex;
+column-gap: 82px;
+font-family: Lato;
+font-size: 18px;
+
+
+
+
+letter-spacing: 0px;
+text-align: left;
+
+ }
+.nav-item{
+    
+}
+.nav-link{
+    color: #ffffff;
+    opacity: 1;
+}
+.nav-link:hover{
+    transition: 0.2s;
+        opacity: 0.6;
+        color: aqua;
+}
+
+/* header cont */
+.header-cont{
+   color: #ffffff;
+   font-family: Lato;
+font-size: 50px;
+font-weight: 500;
+line-height: 60px;
+letter-spacing: 0px;
+text-align: left;
+max-width: 619px;
+padding-bottom: 59px;
+
+
+
+}
+.header-cont-two{
+   color: #ffffff;
+   font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+margin-top: 22px;
+
+
+
+
+}
+.header-row{
+  
+}
+/* golosovanie */
+.kryg:hover{
+    opacity: 0.5;
+    transition: 0.2s;
+    background-color: rgb(20, 0, 245);
+}
+.kryg-two:hover{
+    opacity: 0.5;
+    transition: 0.2s;
+    background-color: rgb(20, 0, 245);
+}
+.kryg{
+    width: 20px;
+height: 20px;
+border-radius: 50%;
+margin-right: 23px;
+opacity: 1;
+
+
+
+
+
+border: 2px solid #FFFFFF
+}
+.golosovanie{
+    color:#fff;
+    display: flex;
+    align-items: center;
+   
+    
+}
+.kryg-two{
+    border: 2px solid #FFFFFF;
+    width: 20px;
+height: 20px;
+border-radius: 50%;
+margin-right: 23px;
+opacity: 1;
+
+
+
+}
+.content-one{
+    display: flex;
+    align-items: flex-end;
+    margin-right: 98px;
+    margin-bottom: 22px;
+    
+    
+}
+.content-two{
+    display: flex;
+    align-items: flex-end;
+    margin-right: 88px;
+    margin-bottom: 22px;
+   
+}
+.search:hover{
+    opacity: 0.85;
+    transition: 0.5s;
+}
+.search{
+    opacity: 1;
+}
+.palka{
+    border: 1px solid #BFC0C5;
+    width: 297px;
+    margin-right: 61px;
+    
+}
+.palka-two{
+    border: 1px solid #BFC0C5;
+    width: 297px;
+   
+    
+}
+   .palki{
+    display: flex;
+    padding-bottom: 153px;
+   }
+   .txt{
+    width: 216px;
+height: 24px;
+font-family: Lato;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+
+   }
+
+   .txt-two{
+    width: 225px;
+height: 24px;
+font-family: Lato;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+   }
+.main{
+    max-width: 1292px;
+    padding: 0 15px; 
+    margin: auto;
+ 
+}
+.padding{
+    
+    font-family: Lato;
+font-size: 35px;
+font-weight: 500;
+line-height: 42px;
+letter-spacing: 0px;
+text-align: left;
+min-width: 1262px;
+background: #FFFFFF;
+padding-top: 93px;
+padding-bottom: 520px;
+box-shadow: 0px 2px 20px 0px #15182429;
+transform: translateY(-223px);
+
+}
+.title{
+    margin-left: 99px;
+    font-family: Lato;
+font-size: 35px;
+font-weight: 500;
+line-height: 42px;
+letter-spacing: 0px;
+text-align: left;
+color: #102746;
+
+
+}
+
+/* main */
+
+.main{
+    padding: 0 15px;
+    max-width: 1292px;
+}
+
